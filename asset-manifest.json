@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/parkereso/static/css/main.165749a1.css",
+    "main.js": "/parkereso/static/js/main.e40d9630.js",
+    "static/js/787.6547b101.chunk.js": "/parkereso/static/js/787.6547b101.chunk.js",
+    "index.html": "/parkereso/index.html",
+    "main.165749a1.css.map": "/parkereso/static/css/main.165749a1.css.map",
+    "main.e40d9630.js.map": "/parkereso/static/js/main.e40d9630.js.map",
+    "787.6547b101.chunk.js.map": "/parkereso/static/js/787.6547b101.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165749a1.css",
+    "static/js/main.e40d9630.js"
+  ]
+}
